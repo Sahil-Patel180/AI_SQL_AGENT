@@ -1,0 +1,7 @@
+streamlit
+duckdb
+python-dotenv
+pandas
+sqlparse
+google-generativeai
+pytest
